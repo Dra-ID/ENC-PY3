@@ -1,0 +1,7 @@
+#!/usr/bin/python3
+# Encrypt By Vindra ID
+# Di Buat Pada Tnggal 11:mei:2023
+# https://github.com/Dra-ID/ENC-PY3
+# youtube channel Vindra ID
+import marshal,zlib,base64
+exec(marshal.loads(zlib.decompress(base64.b64decode(b'eJyNkL1P20Achn9nm1Cg3TqVkS4oQyFfzVBAtoKNbRygbgg5icHOHXYcu3ZzoIRMGRgYGBgqsTIhVe0fw9ABeWXqlopOnXpOGwmpUtXT3fO+z3C6j3t4NOb+5MM5xxUQICgE/DsRRpMUsCAAFfmCQJpu5IaCmUcmBLmpEeEGAXxGU/9/Q/w8G5bFb5nU2RdOagxeD3V5MzK3VvCg61m4oHRsbV9v7fuabdX6hUSLFEPz/XdaS8b1pPPBL9XNbtncthLVVpl1Wg1NY1NpVA92V4pas9JX3+KwbNgM78ZWo1gwTPvoldrCO+77VdPpFpKDgew2h1Vlr1bbzstDK9DzVl05bmmr3jFr+G2cmNW+rebl2NabsazLwY7uJd7a2vJsOhs5PeY7YSoNw46b5lyH0UopleiAttOZMHYIS+cJbcdR0qOMpXNupZQpoZ/gIXt1KhDv55M3UUxOQrreezb5FQB2wTEWEULjp4AWb+HFv+cdSCNpdDhqnh1eblyWPm7cLhWvK1+XimOAMhG/A7yk4o8JeX9+lHVO3nNe1jl5R37WOcd/sbfAL/QLiS+TUg=='))))
