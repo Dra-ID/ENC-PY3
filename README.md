@@ -2,8 +2,8 @@
 
 <p align="center">
 
-  <a href="https://github.com/Dra-ID"><img src="http://readme-typing-svg.herokuapp.com?color=BF00FF&center=true&vCenter=true&multiline=false&lines=Script+Encrypt+Marshal,Zlib,Base64+Python3" alt="UwU">
-
+  <a href="https://github.com/Dra-ID"><img src="http://readme-typing-svg.herokuapp.com?color=BF00FF&center=true&vCenter=true&multiline=false&lines=Script+Encrypt+Marshal+Zlib" alt="UwU">
+ <a href="https://github.com/Dra-ID"><img src="http://readme-typing-svg.herokuapp.com?color=BF00FF&center=true&vCenter=true&multiline=false&lines=Base64+Py3!" alt="UwU">
 
 </p>
 
